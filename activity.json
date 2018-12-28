@@ -2,8 +2,8 @@
   "name": "deviceType",
   "version": "0.0.1",
   "type": "flogo:activity",
-  "description": "activity description",
-  "ref": "github.com/yourusername/yourrepository",
+  "description": "Cereb Device Type",
+  "ref": "github.com/kasim/deviceType",
   "author": "Steven Chu <chu.chongmeng@gmail.com>",
   "inputs":[
     {
